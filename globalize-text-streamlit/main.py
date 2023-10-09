@@ -52,8 +52,8 @@ with col1:
     st.markdown("Often professionals would like to improve thier emails, but don't have the time to do so. This app "
                 "will help you improve your emails by making them more globalized.")
 
-with col2:
-    st.image(image='TweetScreenshot.png', caption='Example of a globalized email', width=500)
+# with col2:
+#     st.image(image='TweetScreenshot.png', caption='Example of a globalized email', width=500)
 
 st.markdown("## Enter your email below")
 
